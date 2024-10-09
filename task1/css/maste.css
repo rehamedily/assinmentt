@@ -1,0 +1,36 @@
+body{
+  background:#dcdceb;
+  border:5px solid black;
+ border-radius:20px;
+}
+.head h2 {
+
+  text-align: center;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-bottom:10px;
+
+
+
+
+}
+
+.image-area {
+
+  display:flex;
+  flex-flow:row wrap;
+  padding:10px;
+  justify-content:center;
+  align-items:center;
+  
+}
+.img1 ,
+.img1,
+.img3,
+.img4,
+.img5 {
+  padding:10px ;
+  
+  
+}
+
